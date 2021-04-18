@@ -1,0 +1,8 @@
+{
+  "name": "scrapbook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2912fc19"
+}
